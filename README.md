@@ -1,0 +1,4 @@
+在gitgub上傳的檔案為主要的main程式以及權重比較小的moe router如要使完整專案運行請至以下google雲端硬碟下載
+以下連結為google個人雲端硬碟完整檔案包含所有模型權重，因檔案太大github存取不了故放上雲端硬碟連結
+https://drive.google.com/drive/folders/1iSdaXCYE3OHRL3TWp92t4HAIBSb4a_jn?usp=sharing
+
